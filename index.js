@@ -33,7 +33,7 @@ const PokemonType = {
     FAIRY: 'Fairy',
 };
 
-/*primeiro commit*/
+/*primeiro commit gc*/
 
 
 let pokemons = [];
