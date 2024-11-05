@@ -37,6 +37,8 @@ const PokemonType = {
 /* segundo commit gc*/
 /* terceito commit gc*/
 
+/* branch nova gc*/
+
 
 let pokemons = [];
 let nextId = 1;
