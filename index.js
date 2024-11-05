@@ -33,6 +33,9 @@ const PokemonType = {
     FAIRY: 'Fairy',
 };
 
+/*primeiro commit*/
+
+
 let pokemons = [];
 let nextId = 1;
 
