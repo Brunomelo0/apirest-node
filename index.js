@@ -37,7 +37,7 @@ const PokemonType = {
 /* segundo commit gc*/
 /* terceito commit gc*/
 
-/* branch nova gc  */
+/* branch nova gc  5645*/
 /* rebase gc  */
 
 
