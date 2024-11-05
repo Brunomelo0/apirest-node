@@ -38,6 +38,7 @@ const PokemonType = {
 /* terceito commit gc*/
 
 /* branch nova gc */
+/* rebase gc */
 
 
 let pokemons = [];
